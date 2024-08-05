@@ -26,7 +26,7 @@ INIT_LR = 1e-4
 EPOCHS = 20
 BS = 32
 
-DIRECTORY = r"C:\Users\SANJAY KUMAR S\Downloads\Compressed\Face-Mask-Detection-master\dataset"
+DIRECTORY = r"C:\Users\deepika-11319\Downloads\Compressed\Face-Mask-Detection-master\dataset"
 
 CATEGORIES = ["with_mask", "without_mask"]
 

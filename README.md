@@ -6,5 +6,5 @@ then test the model using detect_mask_video.py
 
 feel free to edit the code.
 for clarification:
-gmail:sanjaykumar.it19@bitsathy.ac.in
+gmail:deepikarao281199@gmail.com
 
